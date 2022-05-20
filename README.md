@@ -17,9 +17,7 @@ Make sure to install the C/C++ and optionally the GitLens extension
 Provides information about the Switch’s hardware and software.
 
 [libnx](https://github.com/switchbrew/libnx) - 
-A amazing homebrew library that gives access to many of the switch’s hardware and software features. ¨
-
-A Doxygen documentation can be found [here](https://switchbrew.github.io/libnx/)
+A amazing homebrew library that gives access to many of the switch’s hardware and software features. A Doxygen documentation can be found [here](https://switchbrew.github.io/libnx/)
 
 [switch-examples](https://github.com/switchbrew/switch-examples) - 
 Examples for common homebrew features
