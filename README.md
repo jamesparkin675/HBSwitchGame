@@ -7,9 +7,7 @@ To get started, make sure you have all the following tools installed on your sys
 The toolchains used to compile your homebrew apps. Windows has a installer for it and other platforms just use pacman. Make sure to actually install the switch package that contains devkitA64!
 
 [Visual Studio Code](https://code.visualstudio.com/)
-IDE / Text editor that works perfectly for homebrew development.
-
-Make sure to install the C/C++ and optionally the GitLens extension
+IDE / Text editor that works perfectly for homebrew development. Make sure to install the C/C++ and optionally the GitLens extension
 
 
 # Useful resources
