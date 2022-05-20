@@ -1,8 +1,6 @@
-# HBSwitchGame
-Switch Game utilising Homebrew
+# HBSwitchGame - Switch Game utilising Homebrew
 
-
-Development tools
+# Development tools
 To get started, make sure you have all the following tools installed on your system.
 
 devkitA64
@@ -14,7 +12,7 @@ A amazing IDE / Text editor that works perfectly for homebrew development.
 Make sure to install the C/C++ and optionally the GitLens extension
 
 
-Useful resources
+# Useful resources
 SwitchBrew
 Provides information about the Switch’s hardware and software.
 
